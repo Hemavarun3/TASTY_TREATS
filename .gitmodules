@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Hemavarun3/TASTY_TREATS_BACKEND
+	url = https://github.com/your-username/TASTY_TREATS_BACKEND.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/Hemavarun3/TASTY_TREATS_FRONTEND
+	url = https://github.com/your-username/TASTY_TREATS_FRONTEND.git
